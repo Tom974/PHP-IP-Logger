@@ -22,24 +22,23 @@
     <div class="container-login100">
         <div class="wrap-login100">
             <form action="register.php" method="post" class="login100-form marginchangepassword">
-					<span class="login100-form-title">
-						Create Account
-					</span>
+		<span class="login100-form-title">
+		 Create Account
+		</span>
 
                 <div class="wrap-input100 ">
                     <input type="text" id="username" name="username" class="form-control input100" placeholder="Username">
                     <span class="focus-input100"></span>
                     <span class="symbol-input100">
-							<i class="fa fa-user" aria-hidden="true"></i>
+			<i class="fa fa-user" aria-hidden="true"></i>
                     </span>
                 </div>
 
                 <div class="wrap-input100 " data-validate = "Password is required">
-
                     <input type="password" id="password" name="password" class="form-control input100" placeholder="Password">
                     <span class="focus-input100"></span>
                     <span class="symbol-input100">
-							<i class="fa fa-lock" aria-hidden="true"></i>
+			<i class="fa fa-lock" aria-hidden="true"></i>
                     </span>
                 </div>
                 <div class="container-login100-form-btn">
@@ -47,9 +46,9 @@
 
                 </div>
                 <div class="text-center p-t-12">
-						<span class="txt1">
-							Having
-						</span>
+			<span class="txt1">
+			 Having
+			</span>
                     <a class="txt2" href="discord.php">
                         issues?
                     </a>
@@ -78,6 +77,7 @@ if(isset($_POST['register'])){
     $token = rand();
     $username = !empty($_POST['username']) ? trim($_POST['username']) : null;
     $pass = !empty($_POST['password']) ? trim($_POST['password']) : null;
+	
     $sql = "SELECT COUNT(username) AS num FROM users WHERE username = :username";
     $stmt = $pdo->prepare($sql);
     $stmt->bindValue(':username', $username);
