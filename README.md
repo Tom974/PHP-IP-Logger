@@ -7,6 +7,7 @@ I have created this logger to learn myself coding standards, and learn a bit abo
 # FAQ
 
 ``Why is there not a structure?``
+
 I do in fact realise that the project is not organised, as I have stated down this was a small "project" for me to learn more about PHP.
 
 
