@@ -1,18 +1,16 @@
 <?php
-//connect.php
 
 
-
-define('MYSQL_USER', 'tom');
-
-
-define('MYSQL_PASSWORD', 'OE9DsrUBSsyJG1ADUgr5qft04Y61nSx3');
+define('MYSQL_USER', 'mysql-username');
 
 
-define('MYSQL_HOST', '88.99.155.173:3306');
+define('MYSQL_PASSWORD', 'your-database-password');
 
 
-define('MYSQL_DATABASE', 'website');
+define('MYSQL_HOST', 'your-database-host:port');
+
+
+define('MYSQL_DATABASE', 'your-database');
 
 $pdoOptions = array(
     PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
@@ -21,8 +19,8 @@ $pdoOptions = array(
 
 $pdo = new PDO(
     "mysql:host=" . MYSQL_HOST . ";dbname=" . MYSQL_DATABASE, //DSN
-    MYSQL_USER, //Username
-    MYSQL_PASSWORD, //Password
-    $pdoOptions //Options
+    MYSQL_USER, 
+    MYSQL_PASSWORD, 
+    $pdoOptions 
 );
 ?>
