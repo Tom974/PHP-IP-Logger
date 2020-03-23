@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,21 +24,21 @@
         <div class="wrap-login100">
 
             <form action="index.php" class="login100-form marginchangepassword">
-					<span class="login100-form-title">
-						Dm Tom.#1833 on discord for:
-					</span>
+			<span class="login100-form-title">
+				Dm Tom.#1833 on discord for:
+			</span>
                 <span class="login100-form-title">
-						- Token Request
-					</span>
+				- Token Request
+			</span>
                 <span class="login100-form-title">
-						 - Account Creation
-					</span>
+				- Account Creation
+			</span>
                 <span class="login100-form-title">
-						 - Username Change
-					</span>
+				- Username Change
+			</span>
                 <span class="login100-form-title">
-						- And anything else you need help with.
-					</span>
+				- And anything else you need help with.
+			</span>
                 <div class="container-login100-form-btn" >
                     <a href="https://discord.gg/DyYVjTZ" class="login100-form-btn marginchangepassword">DM Tom</a>
                 </div>
@@ -55,9 +53,6 @@
         </div>
     </div>
 </div>
-
-
-
 <!--===============================================================================================-->
 <script src="ExtraCSS/vendor/jquery/jquery-3.2.1.min.js"></script>
 <script src="ExtraCSS/vendor/bootstrap/js/popper.js"></script>
@@ -66,7 +61,6 @@
 <script src="ExtraCSS/vendor/tilt/tilt.jquery.min.js"></script>
 <script src="ExtraCSS/js/main.js"></script>
 <!--===============================================================================================-->
-
 
 </body>
 </html>
