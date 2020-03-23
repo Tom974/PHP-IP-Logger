@@ -32,7 +32,7 @@
 					</span>
 
                     <span class="login100-form-title">
-						DM Tom.#1833 on discord for assistance.
+						DM Tom974#1833 on discord for assistance.
 					</span>
 
                 <div class="container-login100-form-btn" >
