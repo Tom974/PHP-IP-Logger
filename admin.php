@@ -6,18 +6,24 @@
     <link rel="shortcut icon" type="image/x-icon" href="logo.png" />
     <title>DB Control Panel</title>
 
-    <!-- Bootstrap core CSS -->
-    <link href="https://admin.tomhartog.nl/dist/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-    <link href="https://admin.tomhartog.nl/dist/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="https://admin.tomhartog.nl/dist/assets/css/font-awesome.css" rel="stylesheet" type="text/css">
-    <link href="css.css" rel="stylesheet" type="text/css">
+     <!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="lib/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="Elib/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="lib/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="lib/animate.css">
+    <link rel="stylesheet" type="text/css" href="lib/animate.css">
+    <link rel="stylesheet" type="text/css" href="lib/hamburgers.min.css">
+    <link rel="stylesheet" type="text/css" href="lib/select2.min.css">
+    <link rel="stylesheet" type="text/css" href="lib/util.css">
+    <link rel="stylesheet" type="text/css" href="lib/main.css">
+    <link rel="stylesheet" type="text/css" href="lib/css.css">
+    <!--===============================================================================================-->
 
 
 </head>
 
 
 
-<!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-secondary static-top">
     <div class="container" >
         <?php
@@ -137,9 +143,9 @@
 </div>
 
 
-<!-- Bootstrap core JavaScript -->
-<script src="https://admin.tomhartog.nl/dist/assets/js/jqeury.slim.min.js"></script>
-<script src="https://admin.tomhartog.nl/dist/assets/js/bootstrap.bundle.min.js"></script>
+
+<script src="lib/jqeury.slim.min.js"></script>
+<script src="lib/bootstrap.bundle.min.js"></script>
 
 
 </body>
