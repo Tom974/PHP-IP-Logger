@@ -5,15 +5,17 @@
     <title>DB Control Panel</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="ExtraCSS/vendor/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="ExtraCSS/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="ExtraCSS/vendor/animate/animate.css">
-    <link rel="stylesheet" type="text/css" href="ExtraCSS/vendor/css-hamburgers/hamburgers.min.css">
-    <link rel="stylesheet" type="text/css" href="ExtraCSS/vendor/select2/select2.min.css">
-    <link rel="stylesheet" type="text/css" href="ExtraCSS/css/util.css">
-    <link rel="stylesheet" type="text/css" href="ExtraCSS/css/main.css">
-    <link rel="stylesheet" type="text/css" href="css.css">
+     <!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="lib/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="Elib/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="lib/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="lib/animate.css">
+    <link rel="stylesheet" type="text/css" href="lib/animate.css">
+    <link rel="stylesheet" type="text/css" href="lib/hamburgers.min.css">
+    <link rel="stylesheet" type="text/css" href="lib/select2.min.css">
+    <link rel="stylesheet" type="text/css" href="lib/util.css">
+    <link rel="stylesheet" type="text/css" href="lib/main.css">
+    <link rel="stylesheet" type="text/css" href="lib/css.css">
     <!--===============================================================================================-->
 </head>
 <body>
@@ -116,12 +118,12 @@ if(isset($_POST['login'])){
 }
 ?>
 <!--===============================================================================================-->
-<script src="ExtraCSS/vendor/jquery/jquery-3.2.1.min.js"></script>
-<script src="ExtraCSS/vendor/bootstrap/js/popper.js"></script>
-<script src="ExtraCSS/vendor/bootstrap/js/bootstrap.min.js"></script>
-<script src="ExtraCSS/vendor/select2/select2.min.js"></script>
-<script src="ExtraCSS/vendor/tilt/tilt.jquery.min.js"></script>
-<script src="ExtraCSS/js/main.js"></script>
+<script src="lib/jquery-3.2.1.min.js"></script>
+<script src="lib/popper.js"></script>
+<script src="lib/bootstrap.min.js"></script>
+<script src="lib/select2.min.js"></script>
+<script src="lib/tilt.jquery.min.js"></script>
+<script src="lib/main.js"></script>
 <!--===============================================================================================-->
 
 
