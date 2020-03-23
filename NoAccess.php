@@ -16,7 +16,7 @@
     <link rel="stylesheet" type="text/css" href="ExtraCSS/vendor/select2/select2.min.css">
     <link rel="stylesheet" type="text/css" href="ExtraCSS/css/util.css">
     <link rel="stylesheet" type="text/css" href="ExtraCSS/css/main.css">
-    <link rel="stylesheet" type="text/css" href="css.css">
+    <link rel="stylesheet" type="text/css" href="lib/css.css">
     <!--===============================================================================================-->
 </head>
 <body>
