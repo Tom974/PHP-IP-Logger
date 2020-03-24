@@ -1,4 +1,4 @@
-# PHP Ip Logger
+# PHP IP Logger
 The logger is based on PHP, connected to a database with PDO.
 # Panel
 In the panel you can basically control the data that is in the database.
