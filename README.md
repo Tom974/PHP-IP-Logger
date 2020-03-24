@@ -13,5 +13,7 @@ I do in fact realise that the project is not organised, as I have stated down th
 # NOTES
 
 -This code is purely written for educational purposes, and should not be used in a real environment.
+
 -CSS is not included in this project.
--I don't owe any responsibility in case of any lawsuits etc.
+
+-Use on your own risk.
