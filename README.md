@@ -10,6 +10,8 @@ I have created this logger to learn myself coding standards, and learn a bit abo
 
 I do in fact realise that the project is not organised, as I have stated down this was a small "project" for me to learn more about PHP.
 
-# NOTE:
+# NOTES
 
-` -This code is purely written for educational purposes, and should not be used in a real environment.`
+-This code is purely written for educational purposes, and should not be used in a real environment.
+-CSS is not included in this project.
+-I don't owe any responsibility in case of any lawsuits etc.
