@@ -1,14 +1,8 @@
 # PHP IP Logger
 The logger is based on PHP, connected to a database with PDO.
-# Panel
-In the panel you can basically control the data that is in the database.
+There is a dashboard where you can see all the ips entered, it basically saves you from going into the database with MySQL workbench.
 # Why?
-I have created this logger to learn myself coding standards, and learn a bit about PHP.
-# FAQ
-
-``Why is there not a structure?``
-
-I do in fact realise that the project is not organised, as I have stated down this was a small "project" for me to learn more about PHP.
+I have created this logger to learn myself coding standards, and learn a bit about PHP. Do not expect good and clean coding text.
 
 # NOTES
 
@@ -17,3 +11,6 @@ I do in fact realise that the project is not organised, as I have stated down th
 -CSS is not included in this project.
 
 -Use on your own risk.
+# SUPPORT
+Discord: Tom974#0001.
+Twitter: Tom974_
